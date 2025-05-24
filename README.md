@@ -2,5 +2,5 @@
 Tela de login
 
 # Tecnologia 💻
-*HTML
-*CSS
+* HTML
+* CSS
